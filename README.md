@@ -1,0 +1,2 @@
+# amantikir
+For study purposes
